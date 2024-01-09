@@ -48,7 +48,7 @@
 
 在最后，希望大家都能玩的开心，如果觉得有意义请分享给更多人，谢谢。
 
-![请分享](认同请分享.png){width=50%}
+<img src="https://github.com/DecafFlatWhite/Bilibili_works/blob/main/TheFinals_AimAssist/%E8%AE%A4%E5%90%8C%E8%AF%B7%E5%88%86%E4%BA%AB.png"  width="33%" height="33%">
 
 ## References
 
