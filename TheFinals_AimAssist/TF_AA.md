@@ -52,9 +52,15 @@
 
 ## References
 
-大东彦视频: https://www.bilibili.com/video/BV1m24y1k7z1
-Beta version AA: https://www.reddit.com/r/thefinals/comments/17kvp8s/aim_assist_mechanics/
-shorty demo: https://www.reddit.com/r/thefinals/comments/18oxfz5/as_a_controller_player_i_can_say_they_may_need_to/
-snap 1: https://www.reddit.com/r/thefinals/comments/18oai9b/cheater_or_controller_user/
+大东彦视频 https://www.bilibili.com/video/BV1m24y1k7z1
+
+Beta version AA: https://www.reddit.com/r/thefinals/comments/17kvp8s/aim_assist_mechanics
+
+shorty demo: https://www.reddit.com/r/thefinals/comments/18oxfz5/as_a_controller_player_i_can_say_they_may_need_to
+
+snap 1: https://www.reddit.com/r/thefinals/comments/18oai9b/cheater_or_controller_user
+
 aimlab: https://www.youtube.com/watch?v=HoDBRRVuVQQ
+
 nuke: https://www.youtube.com/watch?v=7M4NLJjfWn8
+
